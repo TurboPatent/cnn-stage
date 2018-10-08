@@ -1,0 +1,595 @@
+{
+  "isLandscape": true,
+  "drawingData": {
+    "cells": [
+      {
+        "type": "tp.Element",
+        "shape": "numberLabel",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>VGG net</p>",
+        "position": {
+          "x": 603.2785453796387,
+          "y": 17.875
+        },
+        "size": {
+          "width": 28.346454620361328,
+          "height": 28.346454620361328
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "only",
+        "id": "b79ad25e-d1b4-4d9d-aea4-66a238ee6ed2",
+        "z": 1,
+        "objectID": "67915410-42d3-bfe7-3fe5-9f76ddbefc23",
+        "number": 0
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>convolution layer</p>",
+        "position": {
+          "x": 106,
+          "y": 104
+        },
+        "size": {
+          "width": 48,
+          "height": 352
+        },
+        "angle": 0,
+        "label": "<p>conv</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "64ab3a5c-8f37-462a-af9a-11adc7e3f18d",
+        "z": 2,
+        "labelLayout": {
+          "labelBoxWidth": 43.80452346801758,
+          "fullString": "CONV 302",
+          "endPad": 7.46217155456543,
+          "lines": [
+            {
+              "text": "CONV",
+              "width": 34.37702560424805,
+              "x": 4.713748931884766,
+              "y": 138.94786899414063
+            },
+            {
+              "text": "302",
+              "width": 22.386510848999023,
+              "x": 10.709006309509277,
+              "y": 159.94790649414062
+            }
+          ],
+          "textWidth": 34.37702560424805,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "6f688a57-b29c-ceb5-1727-502eb18621fc",
+        "number": 2
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>RELU layer</p>",
+        "position": {
+          "x": 161,
+          "y": 103
+        },
+        "size": {
+          "width": 48,
+          "height": 352
+        },
+        "angle": 0,
+        "label": "<p>relu</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "7b34a87f-ce85-6c09-32b9-b5ef5dcde55b",
+        "z": 3,
+        "labelLayout": {
+          "labelBoxWidth": 43.80452346801758,
+          "fullString": "RELU 304",
+          "endPad": 7.46217155456543,
+          "lines": [
+            {
+              "text": "RELU",
+              "width": 30.623146057128906,
+              "x": 6.590688705444336,
+              "y": 138.94786899414063
+            },
+            {
+              "text": "304",
+              "width": 22.386510848999023,
+              "x": 10.709006309509277,
+              "y": 159.94790649414062
+            }
+          ],
+          "textWidth": 30.623146057128906,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "51b272e3-965e-fc67-dd7d-7c006595d987",
+        "number": 4
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>convolution layer</p>",
+        "position": {
+          "x": 217,
+          "y": 104
+        },
+        "size": {
+          "width": 48,
+          "height": 352
+        },
+        "angle": 0,
+        "label": "<p>conv</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "0e358c1c-ee8e-05a9-7305-bceea2678bf3",
+        "z": 3,
+        "labelLayout": {
+          "labelBoxWidth": 43.80452346801758,
+          "fullString": "CONV 306",
+          "endPad": 7.46217155456543,
+          "lines": [
+            {
+              "text": "CONV",
+              "width": 34.37702560424805,
+              "x": 4.713748931884766,
+              "y": 138.94786899414063
+            },
+            {
+              "text": "306",
+              "width": 22.386510848999023,
+              "x": 10.709006309509277,
+              "y": 159.94790649414062
+            }
+          ],
+          "textWidth": 34.37702560424805,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "dbde3d3f-7fb2-3230-8311-cd28a6c76baa",
+        "number": 6
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>convolution layer</p>",
+        "position": {
+          "x": 383,
+          "y": 105
+        },
+        "size": {
+          "width": 48,
+          "height": 352
+        },
+        "angle": 0,
+        "label": "<p>conv</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "73df16b8-a193-d7d8-10df-6552da6d78c9",
+        "z": 3,
+        "labelLayout": {
+          "labelBoxWidth": 43.80452346801758,
+          "fullString": "CONV 312",
+          "endPad": 7.46217155456543,
+          "lines": [
+            {
+              "text": "CONV",
+              "width": 34.37702560424805,
+              "x": 4.713748931884766,
+              "y": 138.94786899414063
+            },
+            {
+              "text": "312",
+              "width": 22.386510848999023,
+              "x": 10.709006309509277,
+              "y": 159.94790649414062
+            }
+          ],
+          "textWidth": 34.37702560424805,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "9876a781-9652-0271-0232-e8f4b0f1ba13",
+        "number": 12
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>RELUlayer</p>",
+        "position": {
+          "x": 272,
+          "y": 104
+        },
+        "size": {
+          "width": 48,
+          "height": 352
+        },
+        "angle": 0,
+        "label": "<p>relu</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "56a1bcb9-eec8-1ccd-96db-f2b911f9d156",
+        "z": 4,
+        "labelLayout": {
+          "labelBoxWidth": 43.80452346801758,
+          "fullString": "RELU 308",
+          "endPad": 7.46217155456543,
+          "lines": [
+            {
+              "text": "RELU",
+              "width": 30.623146057128906,
+              "x": 6.590688705444336,
+              "y": 138.94786899414063
+            },
+            {
+              "text": "308",
+              "width": 22.386510848999023,
+              "x": 10.709006309509277,
+              "y": 159.94790649414062
+            }
+          ],
+          "textWidth": 30.623146057128906,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "700d58ef-cba9-8a94-ec98-e39730195907",
+        "number": 8
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>RELUlayer</p>",
+        "position": {
+          "x": 438,
+          "y": 104
+        },
+        "size": {
+          "width": 48,
+          "height": 352
+        },
+        "angle": 0,
+        "label": "<p>relu</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "40f6dec4-0908-37bb-2e29-aac522750f99",
+        "z": 4,
+        "labelLayout": {
+          "labelBoxWidth": 43.80452346801758,
+          "fullString": "RELU 314",
+          "endPad": 7.46217155456543,
+          "lines": [
+            {
+              "text": "RELU",
+              "width": 30.623146057128906,
+              "x": 6.590688705444336,
+              "y": 138.94786899414063
+            },
+            {
+              "text": "314",
+              "width": 22.386510848999023,
+              "x": 10.709006309509277,
+              "y": 159.94790649414062
+            }
+          ],
+          "textWidth": 30.623146057128906,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "8d1b3a3f-974e-5243-d4de-4a7de8aa6a89",
+        "number": 14
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>convolution layer</p>",
+        "position": {
+          "x": 494,
+          "y": 105
+        },
+        "size": {
+          "width": 48,
+          "height": 352
+        },
+        "angle": 0,
+        "label": "<p>conv</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "4978dd85-004c-b11c-f123-39c966a984af",
+        "z": 4,
+        "labelLayout": {
+          "labelBoxWidth": 43.80452346801758,
+          "fullString": "CONV 316",
+          "endPad": 7.46217155456543,
+          "lines": [
+            {
+              "text": "CONV",
+              "width": 34.37702560424805,
+              "x": 4.713748931884766,
+              "y": 138.94786899414063
+            },
+            {
+              "text": "316",
+              "width": 22.386510848999023,
+              "x": 10.709006309509277,
+              "y": 159.94790649414062
+            }
+          ],
+          "textWidth": 34.37702560424805,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "39626c95-70db-8ee6-8d72-7d3494b57c67",
+        "number": 16
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>pooling layer</p>",
+        "position": {
+          "x": 327,
+          "y": 105
+        },
+        "size": {
+          "width": 48,
+          "height": 352
+        },
+        "angle": 0,
+        "label": "<p>pool</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "fc3ae3a6-c889-0634-fd37-265487302c90",
+        "z": 5,
+        "labelLayout": {
+          "labelBoxWidth": 43.80452346801758,
+          "fullString": "POOL 310",
+          "endPad": 7.46217155456543,
+          "lines": [
+            {
+              "text": "POOL",
+              "width": 33.538787841796875,
+              "x": 5.132867813110352,
+              "y": 138.94786899414063
+            },
+            {
+              "text": "310",
+              "width": 22.386510848999023,
+              "x": 10.709006309509277,
+              "y": 159.94790649414062
+            }
+          ],
+          "textWidth": 33.538787841796875,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "257ef15e-fa3d-93bc-9c6c-85e91a1fed6f",
+        "number": 10
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>RELUlayer</p>",
+        "position": {
+          "x": 549,
+          "y": 105
+        },
+        "size": {
+          "width": 48,
+          "height": 352
+        },
+        "angle": 0,
+        "label": "<p>relu</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "0f739f11-88e7-86c4-3c01-4c315ef02faa",
+        "z": 5,
+        "labelLayout": {
+          "labelBoxWidth": 43.80452346801758,
+          "fullString": "RELU 318",
+          "endPad": 7.46217155456543,
+          "lines": [
+            {
+              "text": "RELU",
+              "width": 30.623146057128906,
+              "x": 6.590688705444336,
+              "y": 138.94786899414063
+            },
+            {
+              "text": "318",
+              "width": 22.386510848999023,
+              "x": 10.709006309509277,
+              "y": 159.94790649414062
+            }
+          ],
+          "textWidth": 30.623146057128906,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "2cccaf1a-efe6-f9a4-05c0-883d5c9d3111",
+        "number": 18
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>pooling layer</p>",
+        "position": {
+          "x": 604,
+          "y": 106
+        },
+        "size": {
+          "width": 48,
+          "height": 352
+        },
+        "angle": 0,
+        "label": "<p>pool</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "38aedf38-981f-111e-bad6-451ce72f1220",
+        "z": 6,
+        "labelLayout": {
+          "labelBoxWidth": 43.80452346801758,
+          "fullString": "POOL 320",
+          "endPad": 7.46217155456543,
+          "lines": [
+            {
+              "text": "POOL",
+              "width": 33.538787841796875,
+              "x": 5.132867813110352,
+              "y": 138.94786899414063
+            },
+            {
+              "text": "320",
+              "width": 22.386510848999023,
+              "x": 10.709006309509277,
+              "y": 159.94790649414062
+            }
+          ],
+          "textWidth": 33.538787841796875,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "d826ece7-f7a8-1129-220d-619cfddf71c5",
+        "number": 20
+      },
+      {
+        "type": "tp.Element",
+        "shape": "textboxLabel",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 698.8187255859375,
+          "y": 265.2124938964844
+        },
+        "size": {
+          "width": 56.692909240722656,
+          "height": 24.207881644066376
+        },
+        "angle": 0,
+        "label": "<p>&bull; &bull; &bull;</p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "5b581e38-b203-41c0-baf6-c1aa94ca76e3",
+        "z": 7,
+        "labelLayout": {
+          "labelBoxWidth": 51.73761749267578,
+          "fullString": "• • •",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "• • •",
+              "width": 28.062891006469727,
+              "x": 11.837363243103027,
+              "y": 0.49998029632568475
+            }
+          ],
+          "textWidth": 28.062891006469727,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "2dac3bb8-1e8a-6cc2-6f1b-3d5dda52ca27"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "textboxLabel",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 83,
+          "y": 478
+        },
+        "size": {
+          "width": 666,
+          "height": 24.207885495499635
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "d74520cd-e4a1-4915-858d-edf952e84a02",
+        "z": 8,
+        "labelLayout": {
+          "labelBoxWidth": 607.7877197265625,
+          "fullString": " ",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 303.89385986328125,
+              "y": 0.49998315734863397
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "8d83c3bc-1b0d-8184-e569-12ba47a07ad1"
+      }
+    ]
+  }
+}

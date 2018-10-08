@@ -1,0 +1,19 @@
+<p>
+  <span data-role="tag" data-value="ab14043c-b66c-a6d7-cc31-d5f6aab75592" id="ide351299c-f313-3b08-cf1b-ac9afc2b6f99" data-type="figure">Figure 3</span>&nbsp;illustrates a popular form of a CNN known as a&nbsp;
+  <span data-role="tag" data-value="67915410-42d3-bfe7-3fe5-9f76ddbefc23" id="id253671a3-83a3-5e3e-3007-4b28c8c4bfcc" data-type="drawingObject">VGG net 300</span>.&nbsp;The initial 
+  <span data-role="tag" data-value="6f688a57-b29c-ceb5-1727-502eb18621fc" id="id47cd5a2f-96ea-725f-23a3-be66173490df" data-type="drawingObject">convolution layer 302</span>&nbsp;stores the raw image pixels and the final 
+  <span data-role="tag" data-value="d826ece7-f7a8-1129-220d-619cfddf71c5" id="id66c96ebe-ac57-8368-9aab-396c05713176" data-type="drawingObject">pooling layer 320</span>&nbsp;determines the class scores. Each of the intermediate convolution layers ( 
+  <span data-role="tag" data-value="dbde3d3f-7fb2-3230-8311-cd28a6c76baa" id="idde3a7955-309d-3399-e845-921c8a99e9a9" data-type="drawingObject">convolution layer 306</span>, 
+  <span data-role="tag" data-value="9876a781-9652-0271-0232-e8f4b0f1ba13" id="id59582387-06a4-f2f5-0b66-8bec1747f5e5" data-type="drawingObject">convolution layer 312</span>, and 
+  <span data-role="tag" data-value="39626c95-70db-8ee6-8d72-7d3494b57c67" id="id7905bf79-2b8e-7b5b-d8d4-25166e6f204d" data-type="drawingObject">convolution layer 316</span>) and rectifier activations ( 
+  <span data-role="tag" data-value="51b272e3-965e-fc67-dd7d-7c006595d987" id="idc96d89dc-940d-8da3-d7e6-7c965c7b325b" data-type="drawingObject">RELU layer 304</span>, 
+  <span data-role="tag" data-value="700d58ef-cba9-8a94-ec98-e39730195907" id="id73b84a20-30c3-058e-ea7d-220a89e06436" data-type="drawingObject">RELUlayer 308</span>, 
+  <span data-role="tag" data-value="8d1b3a3f-974e-5243-d4de-4a7de8aa6a89" id="idc1a44e4e-93bd-01d2-76fc-4b2f3e6378b1" data-type="drawingObject">RELUlayer 314</span>, and 
+  <span data-role="tag" data-value="2cccaf1a-efe6-f9a4-05c0-883d5c9d3111" id="id46d49ca6-9496-6ba4-f642-3b732c4d82c3" data-type="drawingObject">RELUlayer 318</span>) and intermediate pooling layers (
+  <span data-role="tag" data-value="257ef15e-fa3d-93bc-9c6c-85e91a1fed6f" id="id61c11115-bb1e-40b8-103d-70f750a9589b" data-type="drawingObject">pooling layer 310</span>, 
+  <span data-role="tag" data-value="d826ece7-f7a8-1129-220d-619cfddf71c5" id="id197cdc48-4914-873a-1459-0748565e4fb6" data-type="drawingObject">pooling layer 320</span>) along the processing path is shown as a column.
+</p>
+<p>The 
+  <span data-role="tag" data-value="67915410-42d3-bfe7-3fe5-9f76ddbefc23" id="id7609b4eb-7692-266b-785e-305318595e5e" data-type="drawingObject">VGG net 300</span>&nbsp;replaces the large single-layer&nbsp;filters of basic CNNs with multiple 3x3 sized filters in series. With a given receptive field (the effective area size of input image on which output depends), multiple stacked smaller size filters may perform better at image feature classification than a single layer with a larger filter size, because multiple non-linear layers increase&nbsp;the depth of the network which enables it to learn more complex features. In a 
+  <span data-role="tag" data-value="67915410-42d3-bfe7-3fe5-9f76ddbefc23" id="id90973b5b-2925-c06c-af00-d0237de68c82" data-type="drawingObject">VGG net 300</span>&nbsp;each pooling layer may be only 2x2.
+</p>
