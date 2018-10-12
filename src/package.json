@@ -1,5 +1,5 @@
 {
-  "name": "cnn-package-stage",
+  "name": "cnn-stage",
   "description": "Deep Learning: Convolutional Neural Network",
   "owner": {
     "login": "TurboPatent",
@@ -135,5 +135,5 @@
     "terms": [],
     "glossary": []
   },
-  "repository": "https://github.com/TurboPatent/cnn-package-stage"
+  "repository": "https://github.com/TurboPatent/cnn-stage"
 }
