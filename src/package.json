@@ -16,11 +16,11 @@
       "glossaryCount": 0
     },
     "briefDescriptions": [
-      "<p><b>Fig. 1</b> illustrates a <span data-role=\"tag\" data-value=\"3ea8622e-5a23-b0fc-b048-6392528f45fc\" id=\"id85157c42-0a14-3405-6d7e-36f5d3805534\" data-type=\"drawingObject\">convolutional neural network 100</span> in accordance with one embodiment.</p>",
-      "<p><b>Fig. 2</b> illustrates a <span data-role=\"tag\" data-value=\"7977c83f-6309-51c4-fca7-36a818b6de49\" id=\"idaaf9a14d-01fb-9348-629b-d5b6c3af91d3\" data-type=\"drawingObject\">convolutional neural network layers 200</span> in accordance with one embodiment.</p>",
-      "<p><b>Fig. 3</b> illustrates a <span data-role=\"tag\" data-value=\"67915410-42d3-bfe7-3fe5-9f76ddbefc23\" id=\"id3510269e-86e5-4555-d635-f06e31e6c326\" data-type=\"drawingObject\">VGG net 300</span> in accordance with one embodiment.</p>",
-      "<p><b>Fig. 4</b> illustrates a <span data-role=\"tag\" data-value=\"ef3012ca-78aa-7f44-6a9a-c207ca5b7a6b\" id=\"idb1b4100c-16de-1247-19f6-bf5b8851c059\" data-type=\"drawingObject\">convolution layer filtering 400</span> in accordance with one embodiment.</p>",
-      "<p><b>Fig. 5</b> illustrates a <span data-role=\"tag\" data-value=\"00034acf-7955-76ae-16dd-cf3c63f10089\" id=\"id93319345-85cf-f56d-3382-96461525b5a2\" data-type=\"drawingObject\">pooling layer function 500</span> in accordance with one embodiment.</p>"
+      "<p>illustrates a <span data-role=\"tag\" data-value=\"3ea8622e-5a23-b0fc-b048-6392528f45fc\" id=\"id85157c42-0a14-3405-6d7e-36f5d3805534\" data-type=\"drawingObject\">convolutional neural network 100</span> in accordance with one embodiment.</p>",
+      "<p>illustrates a <span data-role=\"tag\" data-value=\"7977c83f-6309-51c4-fca7-36a818b6de49\" id=\"idaaf9a14d-01fb-9348-629b-d5b6c3af91d3\" data-type=\"drawingObject\">convolutional neural network layers 200</span> in accordance with one embodiment.</p>",
+      "<p>illustrates a <span data-role=\"tag\" data-value=\"67915410-42d3-bfe7-3fe5-9f76ddbefc23\" id=\"id3510269e-86e5-4555-d635-f06e31e6c326\" data-type=\"drawingObject\">VGG net 300</span> in accordance with one embodiment.</p>",
+      "<p>illustrates a <span data-role=\"tag\" data-value=\"ef3012ca-78aa-7f44-6a9a-c207ca5b7a6b\" id=\"idb1b4100c-16de-1247-19f6-bf5b8851c059\" data-type=\"drawingObject\">convolution layer filtering 400</span> in accordance with one embodiment.</p>",
+      "<p>illustrates a <span data-role=\"tag\" data-value=\"00034acf-7955-76ae-16dd-cf3c63f10089\" id=\"id93319345-85cf-f56d-3382-96461525b5a2\" data-type=\"drawingObject\">pooling layer function 500</span> in accordance with one embodiment.</p>"
     ],
     "parts": [
       {
