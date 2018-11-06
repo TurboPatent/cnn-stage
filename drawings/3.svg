@@ -1,9 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="755.6000137329102" height="502.29999351501465" viewBox="82.9000015258789 17.399999618530273 755.6000137329102 502.29999351501465"><g><g transform="translate(603.3,17.9)"><polygon fill="#000000" points="0,0 4.2,11.2 11.8,2" transform="translate(-5.9,27.3)"/>
-<rect fill="none" width="1" height="1" transform="translate(33.3,-0.5)"/>
-<g><g>
-<rect x="0" y="0" width="28.3" height="28.3" opacity="0"/>
-<path fill="none" stroke="#000000" stroke-width="1" d="M28.3,0C16.7,2.2,7,13.4,0,28.3"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0"/><path stroke="#000000" fill="none"/><rect stroke-width="0" fill="none" width="1" height="1" transform="translate(33.3,-0.5)"/><path stroke="#000000" fill="none" transform="translate(33.3,-0.5)"/></g><g transform="translate(106,104)"><g><g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="755.6000137329102" height="502.2999954223633" viewBox="82.9000015258789 102.9000015258789 755.6000137329102 502.2999954223633"><g><g transform="translate(106,104)"><g><g>
 <path d="M48,0H0v352h48V0L48,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
 <rect x="2.1" y="16" width="43.8" height="319.9" fill="none"/>
 <circle fill="none" cx="24" cy="0" r="0.1"/>
@@ -18,7 +13,7 @@
 <circle fill="none" cx="0" cy="176" r="0.1"/>
 <circle fill="none" cx="0" cy="88.8" r="0.1"/>
 <circle fill="none" cx="12.1" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(47.9,175.9)"/><path stroke="#000000" fill="none" d=""/><rect stroke-width="0" fill="none" width="43.8" height="319.9" transform="translate(2.1,16)"/><path stroke="#000000" fill="none" transform="translate(2.1,16)" d="M 7.9 179 35.9 179"/></g><g transform="translate(161,103)"><g><g>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(47.9,175.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(47.9,175.9)"/><rect stroke-width="0" fill="none" width="43.8" height="319.9" transform="translate(2.1,16)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(2.1,16)" text-anchor="middle"><tspan x="21.9" y="155.7">CONV</tspan><tspan x="21.9" y="176.7">302</tspan></text><path stroke="#000000" fill="none" transform="translate(2.1,16)" d="M 7.9 179 35.9 179"/></g><g transform="translate(161,103)"><g><g>
 <path d="M48,0H0v352h48V0L48,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
 <rect x="2.1" y="16" width="43.8" height="319.9" fill="none"/>
 <circle fill="none" cx="24" cy="0" r="0.1"/>
@@ -33,7 +28,7 @@
 <circle fill="none" cx="0" cy="176" r="0.1"/>
 <circle fill="none" cx="0" cy="88.8" r="0.1"/>
 <circle fill="none" cx="12.1" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(47.9,175.9)"/><path stroke="#000000" fill="none" d=""/><rect stroke-width="0" fill="none" width="43.8" height="319.9" transform="translate(2.1,16)"/><path stroke="#000000" fill="none" transform="translate(2.1,16)" d="M 7.9 179 35.9 179"/></g><g transform="translate(217,104)"><g><g>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(47.9,175.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(47.9,175.9)"/><rect stroke-width="0" fill="none" width="43.8" height="319.9" transform="translate(2.1,16)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(2.1,16)" text-anchor="middle"><tspan x="21.9" y="155.7">RELU</tspan><tspan x="21.9" y="176.7">304</tspan></text><path stroke="#000000" fill="none" transform="translate(2.1,16)" d="M 7.9 179 35.9 179"/></g><g transform="translate(217,104)"><g><g>
 <path d="M48,0H0v352h48V0L48,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
 <rect x="2.1" y="16" width="43.8" height="319.9" fill="none"/>
 <circle fill="none" cx="24" cy="0" r="0.1"/>
@@ -48,7 +43,7 @@
 <circle fill="none" cx="0" cy="176" r="0.1"/>
 <circle fill="none" cx="0" cy="88.8" r="0.1"/>
 <circle fill="none" cx="12.1" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(47.9,175.9)"/><path stroke="#000000" fill="none" d=""/><rect stroke-width="0" fill="none" width="43.8" height="319.9" transform="translate(2.1,16)"/><path stroke="#000000" fill="none" transform="translate(2.1,16)" d="M 7.9 179 35.9 179"/></g><g transform="translate(383,105)"><g><g>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(47.9,175.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(47.9,175.9)"/><rect stroke-width="0" fill="none" width="43.8" height="319.9" transform="translate(2.1,16)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(2.1,16)" text-anchor="middle"><tspan x="21.9" y="155.7">CONV</tspan><tspan x="21.9" y="176.7">306</tspan></text><path stroke="#000000" fill="none" transform="translate(2.1,16)" d="M 7.9 179 35.9 179"/></g><g transform="translate(383,105)"><g><g>
 <path d="M48,0H0v352h48V0L48,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
 <rect x="2.1" y="16" width="43.8" height="319.9" fill="none"/>
 <circle fill="none" cx="24" cy="0" r="0.1"/>
@@ -63,7 +58,7 @@
 <circle fill="none" cx="0" cy="176" r="0.1"/>
 <circle fill="none" cx="0" cy="88.8" r="0.1"/>
 <circle fill="none" cx="12.1" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(47.9,175.9)"/><path stroke="#000000" fill="none" d=""/><rect stroke-width="0" fill="none" width="43.8" height="319.9" transform="translate(2.1,16)"/><path stroke="#000000" fill="none" transform="translate(2.1,16)" d="M 7.9 179 35.9 179"/></g><g transform="translate(272,104)"><g><g>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(47.9,175.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(47.9,175.9)"/><rect stroke-width="0" fill="none" width="43.8" height="319.9" transform="translate(2.1,16)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(2.1,16)" text-anchor="middle"><tspan x="21.9" y="155.7">CONV</tspan><tspan x="21.9" y="176.7">312</tspan></text><path stroke="#000000" fill="none" transform="translate(2.1,16)" d="M 7.9 179 35.9 179"/></g><g transform="translate(272,104)"><g><g>
 <path d="M48,0H0v352h48V0L48,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
 <rect x="2.1" y="16" width="43.8" height="319.9" fill="none"/>
 <circle fill="none" cx="24" cy="0" r="0.1"/>
@@ -78,7 +73,7 @@
 <circle fill="none" cx="0" cy="176" r="0.1"/>
 <circle fill="none" cx="0" cy="88.8" r="0.1"/>
 <circle fill="none" cx="12.1" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(47.9,175.9)"/><path stroke="#000000" fill="none" d=""/><rect stroke-width="0" fill="none" width="43.8" height="319.9" transform="translate(2.1,16)"/><path stroke="#000000" fill="none" transform="translate(2.1,16)" d="M 7.9 179 35.9 179"/></g><g transform="translate(438,104)"><g><g>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(47.9,175.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(47.9,175.9)"/><rect stroke-width="0" fill="none" width="43.8" height="319.9" transform="translate(2.1,16)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(2.1,16)" text-anchor="middle"><tspan x="21.9" y="155.7">RELU</tspan><tspan x="21.9" y="176.7">308</tspan></text><path stroke="#000000" fill="none" transform="translate(2.1,16)" d="M 7.9 179 35.9 179"/></g><g transform="translate(438,104)"><g><g>
 <path d="M48,0H0v352h48V0L48,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
 <rect x="2.1" y="16" width="43.8" height="319.9" fill="none"/>
 <circle fill="none" cx="24" cy="0" r="0.1"/>
@@ -93,7 +88,7 @@
 <circle fill="none" cx="0" cy="176" r="0.1"/>
 <circle fill="none" cx="0" cy="88.8" r="0.1"/>
 <circle fill="none" cx="12.1" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(47.9,175.9)"/><path stroke="#000000" fill="none" d=""/><rect stroke-width="0" fill="none" width="43.8" height="319.9" transform="translate(2.1,16)"/><path stroke="#000000" fill="none" transform="translate(2.1,16)" d="M 7.9 179 35.9 179"/></g><g transform="translate(494,105)"><g><g>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(47.9,175.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(47.9,175.9)"/><rect stroke-width="0" fill="none" width="43.8" height="319.9" transform="translate(2.1,16)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(2.1,16)" text-anchor="middle"><tspan x="21.9" y="155.7">RELU</tspan><tspan x="21.9" y="176.7">314</tspan></text><path stroke="#000000" fill="none" transform="translate(2.1,16)" d="M 7.9 179 35.9 179"/></g><g transform="translate(494,105)"><g><g>
 <path d="M48,0H0v352h48V0L48,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
 <rect x="2.1" y="16" width="43.8" height="319.9" fill="none"/>
 <circle fill="none" cx="24" cy="0" r="0.1"/>
@@ -108,7 +103,7 @@
 <circle fill="none" cx="0" cy="176" r="0.1"/>
 <circle fill="none" cx="0" cy="88.8" r="0.1"/>
 <circle fill="none" cx="12.1" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(47.9,175.9)"/><path stroke="#000000" fill="none" d=""/><rect stroke-width="0" fill="none" width="43.8" height="319.9" transform="translate(2.1,16)"/><path stroke="#000000" fill="none" transform="translate(2.1,16)" d="M 7.9 179 35.9 179"/></g><g transform="translate(327,105)"><g><g>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(47.9,175.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(47.9,175.9)"/><rect stroke-width="0" fill="none" width="43.8" height="319.9" transform="translate(2.1,16)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(2.1,16)" text-anchor="middle"><tspan x="21.9" y="155.7">CONV</tspan><tspan x="21.9" y="176.7">316</tspan></text><path stroke="#000000" fill="none" transform="translate(2.1,16)" d="M 7.9 179 35.9 179"/></g><g transform="translate(327,105)"><g><g>
 <path d="M48,0H0v352h48V0L48,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
 <rect x="2.1" y="16" width="43.8" height="319.9" fill="none"/>
 <circle fill="none" cx="24" cy="0" r="0.1"/>
@@ -123,7 +118,7 @@
 <circle fill="none" cx="0" cy="176" r="0.1"/>
 <circle fill="none" cx="0" cy="88.8" r="0.1"/>
 <circle fill="none" cx="12.1" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(47.9,175.9)"/><path stroke="#000000" fill="none" d=""/><rect stroke-width="0" fill="none" width="43.8" height="319.9" transform="translate(2.1,16)"/><path stroke="#000000" fill="none" transform="translate(2.1,16)" d="M 7.9 179 35.9 179"/></g><g transform="translate(549,105)"><g><g>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(47.9,175.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(47.9,175.9)"/><rect stroke-width="0" fill="none" width="43.8" height="319.9" transform="translate(2.1,16)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(2.1,16)" text-anchor="middle"><tspan x="21.9" y="155.7">POOL</tspan><tspan x="21.9" y="176.7">310</tspan></text><path stroke="#000000" fill="none" transform="translate(2.1,16)" d="M 7.9 179 35.9 179"/></g><g transform="translate(549,105)"><g><g>
 <path d="M48,0H0v352h48V0L48,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
 <rect x="2.1" y="16" width="43.8" height="319.9" fill="none"/>
 <circle fill="none" cx="24" cy="0" r="0.1"/>
@@ -138,7 +133,7 @@
 <circle fill="none" cx="0" cy="176" r="0.1"/>
 <circle fill="none" cx="0" cy="88.8" r="0.1"/>
 <circle fill="none" cx="12.1" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(47.9,175.9)"/><path stroke="#000000" fill="none" d=""/><rect stroke-width="0" fill="none" width="43.8" height="319.9" transform="translate(2.1,16)"/><path stroke="#000000" fill="none" transform="translate(2.1,16)" d="M 7.9 179 35.9 179"/></g><g transform="translate(604,106)"><g><g>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(47.9,175.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(47.9,175.9)"/><rect stroke-width="0" fill="none" width="43.8" height="319.9" transform="translate(2.1,16)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(2.1,16)" text-anchor="middle"><tspan x="21.9" y="155.7">RELU</tspan><tspan x="21.9" y="176.7">318</tspan></text><path stroke="#000000" fill="none" transform="translate(2.1,16)" d="M 7.9 179 35.9 179"/></g><g transform="translate(604,106)"><g><g>
 <path d="M48,0H0v352h48V0L48,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
 <rect x="2.1" y="16" width="43.8" height="319.9" fill="none"/>
 <circle fill="none" cx="24" cy="0" r="0.1"/>
@@ -153,7 +148,7 @@
 <circle fill="none" cx="0" cy="176" r="0.1"/>
 <circle fill="none" cx="0" cy="88.8" r="0.1"/>
 <circle fill="none" cx="12.1" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(47.9,175.9)"/><path stroke="#000000" fill="none" d=""/><rect stroke-width="0" fill="none" width="43.8" height="319.9" transform="translate(2.1,16)"/><path stroke="#000000" fill="none" transform="translate(2.1,16)" d="M 7.9 179 35.9 179"/></g><g transform="translate(698.8,265.2)"><g><g>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(47.9,175.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(47.9,175.9)"/><rect stroke-width="0" fill="none" width="43.8" height="319.9" transform="translate(2.1,16)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(2.1,16)" text-anchor="middle"><tspan x="21.9" y="155.7">POOL</tspan><tspan x="21.9" y="176.7">320</tspan></text><path stroke="#000000" fill="none" transform="translate(2.1,16)" d="M 7.9 179 35.9 179"/></g><g transform="translate(698.8,265.2)"><g><g>
 <path d="M56.7,0H0v24.2h56.7V0L56.7,0z" fill="none" stroke="none" stroke-dasharray="none"/>
 <rect x="2.5" y="1.1" width="51.7" height="22" fill="none"/>
 <circle fill="none" cx="28.3" cy="0" r="0.1"/>
@@ -168,7 +163,7 @@
 <circle fill="none" cx="0" cy="12.1" r="0.1"/>
 <circle fill="none" cx="0" cy="6.1" r="0.1"/>
 <circle fill="none" cx="14.3" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(56.6,12)"/><path stroke="#000000" fill="none" d=""/><rect stroke-width="0" fill="none" width="51.7" height="22" transform="translate(2.5,1.1)"/><path stroke="#000000" fill="none" transform="translate(2.5,1.1)" d="M 0 0"/></g><g transform="translate(83,478)"><g><g>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(56.6,12)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(56.6,12)"/><rect stroke-width="0" fill="none" width="51.7" height="22" transform="translate(2.5,1.1)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(2.5,1.1)" text-anchor="middle"><tspan x="25.9" y="17.3">• • •</tspan></text><path stroke="#000000" fill="none" transform="translate(2.5,1.1)" d="M 0 0"/></g><g transform="translate(83,478)"><g><g>
 <path d="M666,0H0v24.2h666V0L666,0z" fill="none" stroke="none" stroke-dasharray="none"/>
 <rect x="29.1" y="1.1" width="607.8" height="22" fill="none"/>
 <circle fill="none" cx="333" cy="0" r="0.1"/>
@@ -183,4 +178,4 @@
 <circle fill="none" cx="0" cy="12.1" r="0.1"/>
 <circle fill="none" cx="0" cy="6.1" r="0.1"/>
 <circle fill="none" cx="168" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(665.9,12)"/><path stroke="#000000" fill="none" d=""/><rect stroke-width="0" fill="none" width="607.8" height="22" transform="translate(29.1,1.1)"/><path stroke="#000000" fill="none" transform="translate(29.1,1.1)" d="M 0 0"/></g></g><defs/></svg>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(665.9,12)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(665.9,12)"/><rect stroke-width="0" fill="none" width="607.8" height="22" transform="translate(29.1,1.1)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(29.1,1.1)" text-anchor="middle"><tspan x="303.9" y="17.3"> </tspan></text><path stroke="#000000" fill="none" transform="translate(29.1,1.1)" d="M 0 0"/></g></g><defs/></svg>
